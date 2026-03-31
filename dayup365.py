@@ -17,4 +17,4 @@ while f(dayfactor)<fn(0.01):
     dayfactor+=0.001
 print(f(dayfactor))
 print(dayfactor)
-print(fn(0.01))
+print(fn(0.01))#0.01是每天1%的收益
